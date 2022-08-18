@@ -1,0 +1,7 @@
+presidio_anonymizer==2.2.29
+pycryptodome==3.15.0
+pydantic==1.9.2
+spacy==3.4.1
+uvicorn==0.18.2
+fastapi==0.79.0
+fastapi-utils==0.2.1
