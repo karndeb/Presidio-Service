@@ -7,7 +7,7 @@ Goals
  - Embrace extensibility and customizability to a specific business need.
  - Facilitate both fully automated and semi-automated PII de-identification flows on multiple platforms.
 
-![Presidio Detection Flow]("https://github.com/karndeb/Presidio-Service/blob/main/detection_flow.gif")
+![Presidio Detection Flow](https://github.com/karndeb/Presidio-Service/blob/main/detection_flow.gif)
 
 This is a Fastapi wrapper service around the presidio module
 
